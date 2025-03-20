@@ -5,7 +5,7 @@ int main(int argc, char **argv)
 {fgfgfgvvvvvv
 <<<<<<< HEAD
     char name[256];
-
+pipipipipipipipa
     printf("Enter your name: ");
     fgets(name, 256, stdin);
     printf("length = %d\n", strlen(name));
