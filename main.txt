@@ -20,6 +20,6 @@ pipipipipipipipa
     gets(last); /* buffer overflow? what's that? */
 >>>>>>> c02647df4452de2c6248dfded23e0f5217b4bf9e
 
-    printf("Hello %s %s!\n", first, last);
+    printf("Hello %s %s!\n", first, last);[p[dp[dp[d
     return 0;
 }
